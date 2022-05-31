@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">ACTAS</string>
+    <string name="title_activity_long_form">LongForm</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    //Short form strings
+
+    <string name="select">Select Relation</string>
+    <string name="select1">Select Gender</string>
+    <string name="select2">Select Albinism</string>
+    <string name="select3">Select Seeing</string>
+    <string name="select4">Select Hearing</string>
+    <string name="select5">Select Working</string>
+    <string name="select6">Select Remembering</string>
+    <string name="select7">Select Self-care</string>
+    <string name="select8">Select Disability</string>
+    <string name="select9">Select Marital Status</string>
+    <string name="select10">Select Birth Certificate</string>
+    <string name="select11">Select Language You Speak </string>
+    <string name="select12">Select Education Attainment</string>
+    <string name="select15">What was the cause
+of death</string>
+    <string name="select13">Select Education Level</string>
+    <string name="select14">Was the
+deceased a male
+or a female </string>
+
+
+    <string-array name="item_house_holder">
+        <item> Select Relationship</item>
+        <item>Head</item>
+        <item>spouse</item>
+        <item>Daughter/Son</item>
+        <item>Parent</item>
+        <item>Grant Children</item>
+        <item>Other Relation</item>
+        <item>Not Related</item>
+    </string-array>
+
+    <string-array name="item_sex">
+        <item>Select Sex</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="item_albino">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="item_dealth">
+        <item>Female Yes </item>
+        <item>Female No</item>
+        <item>Male Yes</item>
+        <item>Male No</item>
+    </string-array>
+
+    <string-array name="item_seeing">
+        <item>No Difficulty</item>
+        <item>Some Difficulty</item>
+        <item>A lot of Difficulty</item>
+        <item>Unable to See</item>
+        <item>Not Applicable</item>
+    </string-array>
+
+    <string-array name="item_hearing">
+        <item>No Difficulty</item>
+        <item>Some Difficulty</item>
+        <item>A lot of Difficulty</item>
+        <item>Unable to See</item>
+        <item>Not Applicable</item>
+    </string-array>
+
+
+    <string-array name="item_couse_death">
+        <item>Road Accident</item>
+        <item>Other Injuries</item>
+        <item>Suicide </item>
+        <item>Violence </item>
+        <item>Sickness/Disease</item>
+        <item>Maternal Death</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="item_working">
+        <item>No Difficulty</item>
+        <item>Some Difficulty</item>
+        <item>A lot of Difficulty</item>
+        <item>Unable to See</item>
+        <item>Not Applicable</item>
+
+    </string-array>
+
+    <string-array name="item_remembering">
+        <item>No Difficulty</item>
+        <item>Some Difficulty</item>
+        <item>A lot of Difficulty</item>
+        <item>Unable to See</item>
+        <item>Not Applicable</item>
+    </string-array>
+
+    <string-array name="item_selfcare">
+        <item>No Difficulty</item>
+        <item>Some Difficulty</item>
+        <item>A lot of Difficulty</item>
+        <item>Unable to See</item>
+        <item>Not Applicable</item>
+    </string-array>
+
+    <string-array name="item_disability">
+
+        <item>Clift Plate</item>
+        <item>Spinal Defida</item>
+        <item>Spinal Cord</item>
+        <item>Injuries</item>
+        <item>Mental Health</item>
+        <item>Psoriasis</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="item_maritul">
+
+        <item>Never Married</item>
+        <item>Married</item>
+        <item>Living Together</item>
+        <item>Divorced</item>
+        <item>Separation</item>
+        <item>Widowed</item>
+        <item>Not Stated</item>
+
+    </string-array>
+    <string-array name="item_birthCertificate">
+        <item>Yes Birth certificate </item>
+        <item>Yes Birth Notification</item>
+        <item>No </item>
+        <item>Don\'t Know</item>
+    </string-array>
+
+    <string-array name="item_education">
+        <item>Swahili   </item>
+        <item>English  </item>
+        <item>English and Swahili </item>
+        <item>Other Language</item>
+        <item>Illiterate</item>
+    </string-array>
+
+    <string-array name="item_education_attain">
+        <item>Now Attending   </item>
+        <item>Partially Attending  </item>
+        <item>Completed   </item>
+        <item>Never </item>
+    </string-array>
+
+    <string-array name="item_education_level">
+        <item>PHD   </item>
+        <item>DOCTOR  </item>
+        <item>MASTERS   </item>
+        <item>DEGREE </item>
+        <item>ADVANCE LEVEL </item>
+        <item>ORDINAL LEVEL</item>
+        <item>PRIMARY</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="item_dealth_nature">
+
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+</resources>

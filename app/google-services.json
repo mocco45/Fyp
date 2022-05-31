@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485267144701",
+    "project_id": "sencusapp",
+    "storage_bucket": "sencusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485267144701:android:d580d8ae4566c47d4c6394",
+        "android_client_info": {
+          "package_name": "com.example.sencusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485267144701-7aaurave8r8p9t53tavnivg9e34s4u15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwW7l7-XLU5XP3qteaFz9-Ck0-zFvIhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485267144701-7aaurave8r8p9t53tavnivg9e34s4u15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
